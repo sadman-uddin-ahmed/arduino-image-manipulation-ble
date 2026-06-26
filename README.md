@@ -1,5 +1,4 @@
 # Arduino OLED Bitmap Manipulation and BLE Communication System
-
 Arduino Uno R3 prototype that renders, moves, rotates, transmits, receives, and displays compact bitmap graphics through an OLED interface and Bluetooth Low Energy communication.
 
 The system uses a two-axis analogue joystick for local image control, an AT-09 BLE module for wireless packet exchange with an Android device, and a red LED to indicate communication activity.
