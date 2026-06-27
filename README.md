@@ -3,7 +3,7 @@ Arduino Uno R3 prototype that renders, moves, rotates, transmits, receives, and 
 
 The system uses a two-axis analogue joystick for local image control, an AT-09 BLE module for wireless packet exchange with an Android device, and a red LED to indicate communication activity.
 
-![Integrated hardware prototype](assets/integrated-hardware-prototype.jpg)
+![Integrated hardware prototype](assets/integrated-hardware-prototype.jpeg)
 
 ## Features
 
@@ -97,15 +97,15 @@ The sketch also uses the Arduino core libraries:
 
 ### Bluetooth packet testing
 
-![Bluetooth packet testing](assets/bluetooth-packet-test.jpg)
+![Bluetooth packet testing](assets/bluetooth-packet-test.jpeg)
 
 ### OLED split-screen result
 
-![OLED split-screen result](assets/oled-split-screen-result.jpg)
+![OLED split-screen result](assets/oled-split-screen-result.jpeg)
 
 ### Prototype side view
 
-![Prototype side view](assets/prototype-side-view.jpg)
+![Prototype side view](assets/prototype-side-view.jpeg)
 
 ## Repository structure
 
